@@ -12,8 +12,7 @@ followed by the value of the text variable
 The default value of text is "is cool"
 /number/<n>: display "n is a number"
 only if n is an integer
-/number_template/<n>: display a HTML page only
-if n is an integer:
+/number_template/<n>: display a HTML page only if n is an integer:
     H1 tag: "Number: n" inside the tag BODY
 """
 
